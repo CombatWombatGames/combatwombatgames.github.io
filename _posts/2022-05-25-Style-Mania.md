@@ -15,8 +15,10 @@ image:
 - scene constructing, audio system, cheats and much more.
 {: .prompt-tip } 
 
-![img-description](/assets/img/screenshots/5SM1.png)
-_Time management_
+### Screenshots
 
-![img-description](/assets/img/screenshots/6SM2.png)
+![](/assets/img/screenshots/5SM1.png)
+_Time Management_
+
+![](/assets/img/screenshots/6SM2.png)
 _Character Leveling_
