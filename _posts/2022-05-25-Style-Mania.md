@@ -17,3 +17,6 @@ image:
 
 ![img-description](/assets/img/screenshots/5SM1.png)
 _Time management_
+
+![img-description](/assets/img/screenshots/6SM2.png)
+_Character Leveling_
