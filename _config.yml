@@ -16,7 +16,7 @@ timezone: Asia/Yerevan
 
 title: CWGames # the main title
 
-tagline: Games made by Nikita S. # it will display as the subtitle
+tagline: Games made by Nikita S.<br><br> All materials on the site are obtained from open sources and may not be a violation of any NDA. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Games made by Nikita S.
@@ -151,6 +151,14 @@ paginate: 10
 
 # The base URL of your site
 baseurl: ""
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      permalink: /:title
 
 # ------------ The following options are not recommended to be modified ------------------
 
