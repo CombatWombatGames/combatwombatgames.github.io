@@ -16,7 +16,7 @@ timezone: Asia/Yerevan
 
 title: CWGames # the main title
 
-tagline: Games made by Nikita S.<br><br> All materials on the site are obtained from open sources and may not be a violation of any NDA. # it will display as the subtitle
+tagline: Games made by Nikita S.<br><br> All materials on the site are obtained from open sources and may not be a violation of any NDA.<br><br> All rights to materials used belong to their respective owners. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Games made by Nikita S.
