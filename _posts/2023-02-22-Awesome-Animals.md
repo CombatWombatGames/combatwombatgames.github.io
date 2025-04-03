@@ -15,5 +15,5 @@ image:
 
 ### Screenshots
 
-![](/assets/img/screenshots/7AA1.png){: w="360" } _Map_ | ![img-description](/assets/img/screenshots/8AA2.png){: w="360" } _Core Gameplay_
-![](/assets/img/screenshots/9AA3.png){: w="360" } _Photo recognition_ | ![img-description](/assets/img/screenshots/10AA4.png){: w="360" } _Photo Album_
+![](/assets/img/screenshots/7AA1.png) | ![img-description](/assets/img/screenshots/8AA2.png)
+![](/assets/img/screenshots/9AA3.png) | ![img-description](/assets/img/screenshots/10AA4.png)
