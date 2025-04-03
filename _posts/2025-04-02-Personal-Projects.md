@@ -16,12 +16,12 @@ image:
 
 #### TetraMerge
 
-![](/assets/img/screenshots/TM1.png){: w="360" } _"Tetra" Part_ | ![](/assets/img/screenshots/TM2.png){: w="360" } _"Merge" Part_
+![](/assets/img/screenshots/TM1.png) _"Tetra" Part_ | ![](/assets/img/screenshots/TM2.png) _"Merge" Part_
 
 #### Mindstruck
 
-![](/assets/img/screenshots/MS1.png){: w="360" } _Target_ | ![](/assets/img/screenshots/MS2.png){: w="360" } _Obstacle_
+![](/assets/img/screenshots/MS1.png) _Target_ | ![](/assets/img/screenshots/MS2.png) _Obstacle_
 
 #### And so on
 
-![](/assets/img/screenshots/SP.png){: w="360" } _Spell Puzzle_ | ![](/assets/img/screenshots/TQ.png){: w="360" } _Text Quest_
+![](/assets/img/screenshots/SP.png) _Spell Puzzle_ | ![](/assets/img/screenshots/TQ.png) _Text Quest_
