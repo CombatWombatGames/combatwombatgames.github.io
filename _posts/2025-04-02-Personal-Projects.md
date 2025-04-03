@@ -16,7 +16,7 @@ image:
 
 #### TetraMerge
 
-![](/assets/img/screenshots/TM1.png) _"Tetra" Part_ | ![](/assets/img/screenshots/TM2.png) _"Merge" Part_
+![](/assets/img/screenshots/TM1.png) _"Tetra" part_ | ![](/assets/img/screenshots/TM2.png) _"Merge" part_
 
 #### Mindstruck
 

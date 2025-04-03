@@ -18,7 +18,7 @@ image:
 ### Screenshots
 
 ![](/assets/img/screenshots/5SM1.png)
-_Time Management_
+_Backstage time management_
 
 ![](/assets/img/screenshots/6SM2.png)
-_Character Leveling_
+_Character stats and leveling_

@@ -17,10 +17,10 @@ image:
 ### Screenshots
 
 ![](/assets/img/screenshots/11BBH1.png)
-_Time Management_
+_Store with clients_
 
 ![](/assets/img/screenshots/12BBH2.png)
-_Cake Constructor_
+_Cake constructor_
 
 ![](/assets/img/screenshots/13BBH3.png)
 _Dating_
