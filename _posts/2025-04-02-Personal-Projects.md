@@ -15,10 +15,12 @@ image:
 ### Screenshots
 
 #### TetraMerge
+([AppMagic Link](https://appmagic.rocks/google-play/tetramerge-rune-puzzle-brick/com.CombatWombat.TetraMerge)) 
 
 ![](/assets/img/screenshots/TM1.png) _"Tetra" part_ | ![](/assets/img/screenshots/TM2.png) _"Merge" part_
 
 #### Mindstruck
+([AppMagic Link](https://appmagic.rocks/google-play/mozgolomka-da-vinchi/com.CombatWombat.Mindstruck)) 
 
 ![](/assets/img/screenshots/MS1.png) _Target_ | ![](/assets/img/screenshots/MS2.png) _Obstacle_
 
